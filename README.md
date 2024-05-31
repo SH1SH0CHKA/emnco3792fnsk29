@@ -2,7 +2,7 @@
   <img src="web/assets/icon-foreground.png" align="center" height="64" />
   <br>
   
-  # FrogLauncher
+  # Light Client
 </div>
 
-> Да-да, очередной Minecraft-лаунчер на Electron.
+> Да-да, очередной клиент на Electron.
