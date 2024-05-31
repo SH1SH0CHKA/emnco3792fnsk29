@@ -1,6 +1,6 @@
 const NEWS_LOAD_URL = "http://froglauncher.seeroy.ru/news.json";
 const UPDATES_LOAD_URL =
-  "https://api.github.com/repos/Seeroy/FrogLauncher/releases";
+  "https://api.github.com/repos/SH1SHOCHKA/Light-Client/releases";
 const UPDATE_CARD_BASE =
   '<div class="update-item"> <div class="update-caption">$1</div> <div class="update-changelog">$2</div> </div>';
 const NEWS_CARD_BASE =
